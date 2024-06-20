@@ -1,0 +1,1 @@
+drop view if exists employee_subscriptions_by_name;
